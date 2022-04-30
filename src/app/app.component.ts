@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angular13DemoECS';
+  public title: string = 'Arquitectura Cloud';
+  public fecha: string = 'Usach - 2022'
 }
